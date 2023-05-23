@@ -1,6 +1,6 @@
 {
-    "name": "login",
-    "short_name": "login",
+    "name": "cocktailapp",
+    "short_name": "cocktailapp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
